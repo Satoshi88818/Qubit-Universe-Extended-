@@ -1,4 +1,4 @@
-# README: The Qubit Universe Framework & Temporal Projection Series
+The Qubit Universe Framework & Temporal Projection Series
 
 **Author:** James Squire  
 **Date:** March 2026  
@@ -10,7 +10,7 @@
 
 ## Overview
 
-These two documents form part of a unified theoretical physics framework. The first is the **foundational cosmological theory**; the second is a **derived application** of that theory to the problem of time travel and multiversal branching. They are deeply interdependent: the Addendum cannot be understood without the base framework, and the Addendum in turn demonstrates the framework's reach beyond cosmology into questions of consciousness, causality, and observer-mediated branching.
+These documents form part of a unified theoretical physics framework. The first is the **foundational cosmological theory**; the second is a **derived application** of that theory to the problem of time travel and multiversal branching. They are deeply interdependent: the Addendum cannot be understood without the base framework, and the Addendum in turn demonstrates the framework's reach beyond cosmology into questions of consciousness, causality, and observer-mediated branching.
 
 The central equation of the entire body of work is:
 
